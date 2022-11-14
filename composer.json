@@ -1,0 +1,16 @@
+{
+    "name": "gaudileo/poo2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gaudileo\\Poo2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "squanchymnonm",
+            "email": "monaldi.nicolas@gmail.com"
+        }
+    ],
+    "require": {}
+}
